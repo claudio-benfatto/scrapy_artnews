@@ -1,0 +1,8 @@
+*.pyc
+reviews/
+retrospective/
+market/
+documents/
+artsy/
+artists/
+*.html
